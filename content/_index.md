@@ -107,7 +107,7 @@ transparent gestaltet sind.
 
 ### **Vielfalt der Bonusarten**
 
-**Spinmama erfahrungen** zeigen, dass die Plattform verschiedene
+**[Spinmama](https://spinmama.de) erfahrungen** zeigen, dass die Plattform verschiedene
 Bonustypen anbietet, um unterschiedliche Spielerpraferenzen zu bedienen.
 Neben dem klassischen Willkommensbonus gibt es regelma?ige Reload-Boni
 fur treue Spieler, die ihre Einzahlungen aufstocken mochten. Freispiele
