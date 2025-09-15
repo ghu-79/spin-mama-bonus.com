@@ -1,0 +1,93 @@
+baseURL = "https://spin-mama-bonus.com/"
+defaultContentLanguage = "de"
+title = "spin-mama-bonus.com"
+enableRobotsTXT = true
+buildFuture = true
+
+[pagination]
+pagerSize = 10
+
+[params]
+defaultRobotsMetaTag = "index, follow"
+description = ""
+keywords = []
+logo = "/images/logo.png"
+footerLogo = ""
+faviconPNG = "/images/favicon-32x32.png"
+playButtonText = "Jogar Agora"
+referralBaseUrl = "https://27d75jeosf.top/RC2TZM"
+activeGoogleFonts = [ "Inter:wght@400;600;700", "Poppins:wght@700",]
+demoIframeCode = ""
+
+[build]
+writeStats = true
+
+[params.organization]
+name = ""
+
+[params.contact]
+address_text = "Schenkplatz 9/9, 35722 Aachen"
+address_url = "https://www.google.com/maps/search/?api=1&query=Schenkplatz+9%2F9%2C+35722+Aachen"
+phone_display = "+49 (0) 1856 675895"
+phone_link = "tel:+4901856675895"
+email = "info@spin-mama-bonus.com"
+_locale = "de_DE"
+
+[params.contactForm]
+action = ""
+netlify = false
+
+[params.uiText]
+footerCopyright = "© {year} {siteTitle}. Todos os direitos reservados."
+footerDisclaimerTitleRG = "JOGO RESPONSÁVEL"
+footerDisclaimerResponsible = "apoia uma abordagem responsável em relação aos jogos de azar e colabora estreitamente com parceiros que compartilham esse princípio fundamental. Os jogos de azar on-line devem proporcionar alegria e entretenimento, não causar medo ou ansiedade em relação a perdas financeiras. Se você se sentir sobrecarregado ao jogar em nossa plataforma, faça uma pausa para recuperar o controle e a clareza."
+footerDisclaimerTitleAff = "JOGAR COM RESPONSABILIDADE"
+footerDisclaimerAffiliate = "é um site independente, não afiliado aos recursos que recomendamos. Antes de visitar um cassino ou fazer uma aposta, certifique-se de atender a todos os requisitos legais e de idade. Nosso mục tiêu é fornecer informações e entretenimento com ênfase na educação. Ao seguir os links, observe que você está saindo do nosso site."
+menuHome = "Início"
+menuAbout = "Sobre Nós"
+menuCasino = "Onde Jogar"
+menuDemo = "Demo"
+menuApp = "App"
+menuContacts = "Contatos"
+menuCookiePolicy = "Política de Cookies"
+menuPrivacyPolicy = "Política de Privacidade"
+menuResponsibleGambling = "Jogo Responsável"
+menuTermsConditions = "Termos e Condições"
+playButtonText = "Jogar"
+contactPageTitle = "Contato"
+contactInfoTitle = "Informações de contato"
+contactFormTitle = "Enviar uma mensagem"
+contactLabelAddress = "Endereço"
+contactLabelPhone = "Telefone"
+contactLabelEmail = "E-mail"
+contactLabelHours = "Horário de funcionamento"
+contactFormLabelName = "Seu nome"
+contactFormLabelPhone = "Número de telefone"
+contactFormLabelEmail = "E-mail"
+contactFormLabelMessage = "Mensagem"
+contactFormButtonSubmit = "Enviar mensagem"
+contactFormRequiredNotice = "Campos obrigatórios"
+listReadMore = "Ler mais →"
+paginationPrevious = "« Anterior"
+paginationNext = "Próxima »"
+paginationAriaPrevious = "Página anterior"
+paginationAriaNext = "Próxima página"
+paginationAriaGoToPage = "Ir para a página {pageNumber}"
+tocTitle = "Índice"
+breadcrumbHome = "Início"
+contactFormPlaceholderName = "Nome Sobrenome"
+contactFormPlaceholderPhone = "Número de telefone"
+contactFormPlaceholderEmail = "your.email@example.com"
+contactFormPlaceholderMessage = "Digite sua mensagem aqui..."
+notFoundTitle = "404 Não encontrado"
+notFoundHeading = "Ops! Página não encontrada."
+notFoundText = "A página que você está procurando não existe."
+faqTitle = "Perguntas Frequentes"
+_language = "de"
+
+[build.buildStats]
+enable = true
+
+[build.cachebusters]
+enable = true
+sourceMaps = false
