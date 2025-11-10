@@ -80,8 +80,8 @@ Technologie und bietet deutschen Spielern ein sicheres und
 unterhaltsames Spielerlebnis. Von packenden Slot-Maschinen bis hin zu
 authentischen Live-Casino-Erfahrungen - hier findet jeder Spielertyp
 sein perfektes Spiel. Die kontinuierliche Weiterentwicklung der
-Plattform und das Engagement fur Spielerzufriedenheit machen **spin
-mama** zu einer der fuhrenden Adressen fur Online-Casino-Entertainment.
+Plattform und das Engagement fur Spielerzufriedenheit machen **[Spin
+mama](https://spinmamas.com "Spin mama")** zu einer der fuhrenden Adressen fur Online-Casino-Entertainment.
 
 
 ![](/images/doc_main/spinmama-casino-deutschland-online-casino-spiele-und-boni-1.webp)
