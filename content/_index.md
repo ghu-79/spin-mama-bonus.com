@@ -223,7 +223,7 @@ Stunden und wenigen Werktagen dauern.
 
 ### **Sicherheitsma?nahmen und Lizenzen**
 
-Die Sicherheit der Spieler hat bei **spin mama** hochste Prioritat. Die
+Die Sicherheit der Spieler hat bei [Spin mama](https://spinmama-casino.com "Spin mama") hochste Prioritat. Die
 Plattform operiert unter einer gultigten Glucksspiellizenz und
 unterliegt regelma?igen Uberwachungen durch unabhangige Behorden. Alle
 Spiele werden von zertifizierten Zufallszahlengeneratoren gesteuert, die
