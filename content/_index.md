@@ -234,7 +234,7 @@ Spielerkonten vor unbefugtem Zugriff. Die Datenschutzrichtlinien
 entsprechen den strengen europaischen DSGVO-Standards. Regelma?ige
 Sicherheitsaudits durch Drittanbieter bestatigen die Integritat der
 Systeme. Das Kundendienstteam ist geschult, verdachtige Aktivitaten zu
-erkennen und entsprechende Ma?nahmen zu ergreifen.
+erkennen und entsprechende Ma?nahmen zu ergreifen. Einige Nutzer geben an, dass die [Vincispin](https://vinci-spin.de "Vincispin")-Funktion dem Spielerlebnis eine zusätzliche Abwechslung verleiht.
 
 ## **Kundensupport und mobile Erfahrung**
 
