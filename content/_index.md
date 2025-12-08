@@ -150,7 +150,7 @@ Video-Slots mit komplexen Bonusfunktionen - die Auswahl lasst keine
 Wunsche offen. Tischspiele wie Blackjack, Roulette und Baccarat sind in
 verschiedenen Varianten verfugbar, wahrend das Live-Casino authentische
 Spielbank-Atmosphare direkt nach Hause bringt. Regelma?ige Neuzugange
-sorgen dafur, dass das Spieleangebot stets frisch und aufregend bleibt. Spieler vergleichen häufig Quoten und Boni auf [Most bet](https://mostbet.com.de "Most bet"), bevor sie Wetten platzieren.
+sorgen dafur, dass das Spieleangebot stets frisch und aufregend bleibt.
 
 | **Spielkategorie** | **Beliebte Titel** | **Besonderheiten** |
 |----|----|----|
