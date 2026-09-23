@@ -20,10 +20,10 @@ playButtonText = "Jogar Agora"
 referralBaseUrl = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spin-mama-bonus.com"
 activeGoogleFonts = [ "Inter:wght@400;600;700", "Poppins:wght@700",]
 demoIframeCode = ""
-playPath = "visit"
-tokenPath = "_d62d5bdf"
-cookieName = "vmq"
-jsAsset = "ahanfi"
+playPath = "play-now"
+tokenPath = "_12d5bc6d"
+cookieName = "8zp"
+jsAsset = "mtr573"
 
 [build]
 writeStats = true
